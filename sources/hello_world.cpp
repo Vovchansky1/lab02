@@ -2,8 +2,8 @@
 #include <string>
 
 int main() {
-     std::string name;
-     std::cin >> name; // Checking updates
-     std::cout << "Hello world from " << name << std::endl;
+     std::string namee;
+     std::cin >> namee; // Creating conflict
+     std::cout << "Hello world from " << namee << std::endl;
      return 0;
 }
